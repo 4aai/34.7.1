@@ -61,7 +61,7 @@ int main()
     //Concept<HashVirtual>(hv); // virtual ~destructor
 
     HashNoHash hnh(789);
-    //Concept<HashNoHash>(hnh); // no toString method
+    //Concept<HashNoHash>(hnh); // no hash method
     
     return 0;
 }
